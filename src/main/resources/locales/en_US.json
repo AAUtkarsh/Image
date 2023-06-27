@@ -1,0 +1,15 @@
+{
+	"label": "File Save",
+	"description": "Provides actions for Saving a file from File variable.",
+	"FileSave.label": "Save file",
+	"FileSave.node_label": "",
+	"FileSave.description": "Saves the file in file type variable",
+	"FileSave.sourceFile.label": "Select file variable",
+	"FileSave.destinationPath.label": "Path to save file",
+
+	"OpenFile.label": "Open File",
+	"OpenFile.description": "Opens an Image File",
+	"OpenFile.node_label": "Select your image file",
+	"OpenFile.return_label": "Save Image to variable",
+	"OpenFile.sourceFilePath.label": "Select Image File"
+}
